@@ -24,6 +24,8 @@ export class View {
     this.form.append(this.input, this.addTagBtn);
     this.wrappedElem.append(this.checkbox, this.modeNotificationText);
     this.app.append(this.form, this.wrappedElem, this.tagsList);
+    
+    this._bindChangeMode();
   }
 
   createElement(tag, className) {
