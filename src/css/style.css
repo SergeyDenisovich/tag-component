@@ -1,0 +1,56 @@
+#app {
+  margin: 50px auto;
+  padding: 20px 10px;
+  max-width: 400px;
+  text-align: center;
+  border: 1px solid;
+  border-radius: 5px;
+}
+
+.input-elem {
+  margin-right: 10px;
+  border: none;
+  border-bottom: 1px solid;
+}
+
+.input-elem:focus {
+  outline: none;
+}
+
+.added-btn {
+  border: none;
+  cursor: pointer;
+}
+
+.wrapped-elem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tags-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.added-btn,
+.list-item {
+  background-color: cadetblue;
+  padding: 5px;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 5px 0;
+}
+
+.delete-btn {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  font-size: 20px;
+}
