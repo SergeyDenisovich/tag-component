@@ -1,4 +1,4 @@
-## [Tag Component](https://sergeydenisovich.github.io/tag-component) for add, delete tags created from input value
+## Tag Component for add, delete tags created from input value
 
 ### Install dependencies
 
