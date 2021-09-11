@@ -8,7 +8,6 @@ export class Controller {
     this.onTagsListChanged(this.model.tags);
     this.view.bindAddTag(this.handleAddTag);
     this.view.bindDeleteTag(this.handleDeleteTag);
-    this.view._bindChangeMode();
   }
 
   onTagsListChanged = (tags) => {
