@@ -5,5 +5,7 @@
 - `npm install`
 
 ### Run project
+### App will be run: http://localhost:8080
 
 - `npm run start`
+
