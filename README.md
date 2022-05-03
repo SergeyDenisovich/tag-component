@@ -1,11 +1,10 @@
-## Tag Component for add, delete tags created from input value
+## Tag Component 
 
-### Install dependencies
-
-- `npm install`
+### Add, delete tags. Created from input value
 
 ### Run project
-### App will be run: http://localhost:8080
+
+- `npm install`
 
 - `npm run start`
 
