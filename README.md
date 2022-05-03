@@ -1,6 +1,6 @@
 ## Tag Component 
 
-### Add, delete tags. Created from input value
+### Add, delete tags. Create new tag from input value
 
 ### Run project
 
